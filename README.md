@@ -30,7 +30,7 @@
 
 クロスバリデーションは訓練時評価では楽観的になりやすい。ホールドアウト+Nested CVおよび可視化による検証で、真の汎化性能を推定することが重要。
 
-### 005: NLPでの過学習と多層防御
+### 005: NLPでの過学習と多層防御(coming soon)
 [005_nlp_overfitting_multilayer_defense.md](insights/005_nlp_overfitting_multilayer_defense.md)
 
 自然言語処理（KIBIT）での過学習リスク。ルールベース判定（辞書マッピング）とML（Neural Network/Transformer）を組み合わせた多層防御で、誤判定を大幅削減。
