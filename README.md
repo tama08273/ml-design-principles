@@ -65,8 +65,4 @@
 - 全ての状況に普遍的ではなく、データ特性・ビジネス要件により変動します
 - **Feedback / Discussion を歓迎**します
 
----
 
-## Author
-
-Data Scientist → ML Engineer → AI Security Engineer 志向
